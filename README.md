@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-🛠️ <h3>Tools and Technology</h3>
+🛠️ <b>Tools and Technology</b>
  
 🚀<b>Backend Skills</b> 
    <br>
