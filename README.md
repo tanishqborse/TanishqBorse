@@ -27,8 +27,8 @@ Here are some ideas to get you started:
    <br>
 🎨<b>Front-End Skills</b>
    <br>
-    - <b>Frameworks & Libraries</b>: React, Angular, Nextjs 
-    - <b>Languages</b>: HTML, CSS, Javascript
+ - <b>Frameworks & Libraries</b>: React, Angular, Nextjs 
+ - <b>Languages</b>: HTML, CSS, Javascript
    <br>
 🔧Devops Skills
 ⚡Apache Tools
