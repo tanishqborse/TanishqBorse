@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-🛠️ Tools and Technology
+🛠️ <h1>Tools and Technology</h1>
  
-🚀Backend Skills 
+🚀<b>Backend Skills</b> 
    <br>
   - <b>Languages</b>: C/C++, Python, Java, Go 
   - <b>APIs</b>: RESTful API's
