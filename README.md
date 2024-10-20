@@ -19,8 +19,15 @@ Here are some ideas to get you started:
 
 <hr>
 🛠️ Tools and Technology
+ 
 🚀Backend Skills 
+   <br>
+  - <b>Languages</b>: C/C++, Python, Java, Go 
+  - <b>APIs</b>: RESTful API's
 🎨Front-End Skills
+   <br>
+  - <b>Frameworks & Libraries</b>: React, Angular, Nextjs 
+  - <b>Languages</b>: HTML, CSS, Javascript
 🔧Devops Skills
 ⚡Apache Tools
 <hr>
