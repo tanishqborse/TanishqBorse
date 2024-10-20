@@ -24,10 +24,12 @@ Here are some ideas to get you started:
    <br>
   - <b>Languages</b>: C/C++, Python, Java, Go 
   - <b>APIs</b>: RESTful API's
-🎨Front-End Skills
    <br>
-  - <b>Frameworks & Libraries</b>: React, Angular, Nextjs 
-  - <b>Languages</b>: HTML, CSS, Javascript
+🎨<b>Front-End Skills</b>
+   <br>
+    - <b>Frameworks & Libraries</b>: React, Angular, Nextjs 
+    - <b>Languages</b>: HTML, CSS, Javascript
+   <br>
 🔧Devops Skills
 ⚡Apache Tools
 <hr>
