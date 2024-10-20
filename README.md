@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Recruiters 👋
+I’m a passionate Security Engineer with deep expertise in cybersecurity architecture, offensive and defensive security, and automation of security processes. With a solid foundation in vulnerability management, incident response, and cloud security, I excel in designing and implementing scalable security solutions that protect enterprise infrastructure from advanced threats. Along with my technical skills, I have been actively involved in security research, threat modeling, and penetration testing to ensure robust security postures for organizations.
+
 
 <!--
 **tanishqborse/TanishqBorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
