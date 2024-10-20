@@ -1,4 +1,4 @@
-## Hello Security Professionals 👋
+## <h2>Hello Security Professionals</h2> 👋
 I’m a passionate Security Engineer with deep expertise in cybersecurity architecture, offensive and defensive security, and automation of security processes. With a solid foundation in vulnerability management, incident response, and cloud security, I excel in designing and implementing scalable security solutions that protect enterprise infrastructure from advanced threats. Along with my technical skills, I have been actively involved in security research, threat modeling, and penetration testing to ensure robust security postures for organizations.
 
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-🛠️ <h1>Tools and Technology</h1>
+🛠️ <h3>Tools and Technology</h3>
  
 🚀<b>Backend Skills</b> 
    <br>
