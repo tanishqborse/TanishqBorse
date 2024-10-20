@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+<hr>
 🛠️ Tools and Technology
-
 🚀Backend Skills 
 🎨Front-End Skills
 🔧Devops Skills
 ⚡Apache Tools
-<br>
+<hr>
 Lets Connect!
 @tanishqborse
