@@ -59,7 +59,7 @@ Built a private Language Model to help organizations run secure queries on inter
 ---
 
 ### 📜 **Certifications and Continuous Learning**
-- **Certifications**: OSCP (in progress), CEH, AWS Certified Security Specialty
+- **Certifications**: CEH v11 EC-Council, AWS Certified Security Specialty, and OSCP (in progress).
 - **Ongoing Learning**: Continuously honing my skills in advanced penetration testing, red teaming, and cloud security through CTFs and hands-on labs.
 
 ---
