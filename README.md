@@ -83,6 +83,7 @@ I am passionate about sharing knowledge and contributing to the security communi
 ### 📄 **Publications and Research**
 - **Whitepaper**: *Collective Attestation for IoT Devices* - Published in *IoT Security Journal*.
 - **Research**: Explored the impact of adversarial attacks on machine learning models, and how to defend AI systems from poisoning and inference attacks.
+- **Research**: Proposed an MVP for implementing Post-Quantum Digital Signatures like Sphincs+ and Crystalls Dyllitheum on a resource-constrained Smart Card reader to enable secure transactions in a Post-Quantum Crypto Era.
 
 ---
 
