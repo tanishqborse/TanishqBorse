@@ -84,6 +84,7 @@ I am passionate about sharing knowledge and contributing to the security communi
 - **Whitepaper**: *Collective Attestation for IoT Devices* - Published in *IoT Security Journal*.
 - **Research**: Explored the impact of adversarial attacks on machine learning models, and how to defend AI systems from poisoning and inference attacks.
 - **Research**: Proposed an MVP for implementing Post-Quantum Digital Signatures like Sphincs+ and Crystalls Dyllitheum on a resource-constrained Smart Card reader to enable secure transactions in a Post-Quantum Crypto Era.
+- **AWS Cybersecurity Report**: Asset Identification, Threat Modelling, Risk Matrix, Impact Analysis, Devised a Cybersecurity Budget based on a low Budget, Medium, and Money-not-an-object Budget. Listed the different types of controls such as preventative, detective, forensic, audit, deterrent, and residual controls. And also suggested the top 10 most impactful security controls that covers the most significant risks given a tight security budget.
 
 ---
 
