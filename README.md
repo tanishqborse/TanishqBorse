@@ -75,7 +75,7 @@ Built a private Language Model to help organizations run secure queries on inter
 ### 📚 **Security Community Contributions**
 I am passionate about sharing knowledge and contributing to the security community:
 - **Blog Posts**: [Securing Cloud Infrastructure](#) | [How to Build Resilient SOCs](#)
-- **Open-source Contributions**: Contributor to several GitHub security repositories, including tools for automating penetration testing workflows.
+- **Open-source Contributions**: Aspiring Contributor to security repositories, including tools for automating penetration testing workflows.
 - **Conferences & Workshops**: Volunteer at Rochester Security Summit, and B-Sides conferences on AI/Cloud/GRC security.
 
 ---
