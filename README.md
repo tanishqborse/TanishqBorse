@@ -47,11 +47,65 @@ I’m a passionate Security Engineer with expertise in cybersecurity architectur
 #### 🔒 **Advanced Malware Detection System**
 Leveraged deep learning and dynamic analysis data to detect evolving malware variants using self-supervised Vision Transformers.
 
+#### 🔒 **Secure Remote Attestation for Platforms**
+Objective: Create a remote attestation framework for verifying the integrity of platform devices.
+Key Tasks:
+Design a lightweight protocol for integrity checks on macOS or Linux devices.
+Implement cryptographic techniques for tamper-proof attestations.
+Ensure scalability and real-time integrity verification.
+Tools/Technologies: Go, TPM, Python, OpenSSL.
+Advantage: Highlights expertise in cryptography and device integrity, a crucial focus for platform security.
+
+#### 🔒 **Platform-Wide Threat Hunting Framework**
+Objective: Build a platform-specific threat hunting framework to detect advanced persistent threats (APTs).
+Key Tasks:
+Design custom detections for malware patterns or lateral movement.
+Leverage MITRE ATT&CK framework for building hunt hypotheses.
+Automate log correlation and anomaly detection using SIEM tools.
+Tools/Technologies: Splunk, ElasticSearch, Python, MITRE ATT&CK, YARA.
+Advantage: Emphasizes expertise in threat detection and response.
+
+
 #### 🔐 **Enterprise SIEM with Threat Intelligence Integration**
 Designed and deployed a custom open-source Security Operations Center (SOC) using Graylog and Wazuh, improving threat detection and response times by 75%.
 
 #### 🛡️ **Penetration Testing Toolkit Automation**
 Developed an automated toolkit for red teaming exercises, significantly reducing manual testing efforts for network security assessments.
+
+#### 🛡️ **macOS Security Controls Project**
+Objective: Develop and implement advanced security controls for macOS systems.
+Key Tasks:
+Implement hardening measures for macOS using configuration profiles or MDM tools.
+Create a custom script for macOS vulnerability scanning.
+Secure macOS file systems using FileVault and monitoring kernel extensions.
+Research and mitigate macOS-specific threats.
+Tools/Technologies: Jamf, OpenSCAP, FileVault, Python/Bash.
+
+#### 🛡️ ** Automated Vulnerability Management Pipeline**
+Objective: Build an automated pipeline for detecting, prioritizing, and remediating vulnerabilities in enterprise environments.
+Key Tasks:
+Integrate tools like Nessus or Qualys with CI/CD pipelines.
+Automate dependency scanning using tools like SonarQube or Snyk.
+Create a dashboard showing real-time vulnerability stats and remediation status.
+Tools/Technologies: Jenkins, Python, Terraform, Nessus, ELK Stack.
+
+
+#### 🔧 **Kernel-Level Rootkit Detection**
+Objective: Develop a proof-of-concept rootkit detector for Linux/macOS platforms.
+Key Tasks:
+Write a kernel module to identify malicious hooks or hidden processes.
+Implement behavior-based anomaly detection for processes.
+Document and mitigate bypass techniques.
+Tools/Technologies: C, Go, eBPF, Linux/macOS kernel APIs.
+
+#### 🔧 **Secure Microservices Architecture**
+Objective: Design a highly secure microservices environment using zero-trust principles.
+Key Tasks:
+Implement mutual TLS authentication between microservices.
+Use service mesh tools like Istio for enhanced security observability.
+Automate secret management using HashiCorp Vault.
+Build defenses against injection attacks and API abuse.
+Tools/Technologies: Kubernetes, Istio, HashiCorp Vault, OWASP ZAP.
 
 #### 🔧 **Private LLM for Enterprise Use**
 Built a private Language Model to help organizations run secure queries on internal financial documents.
