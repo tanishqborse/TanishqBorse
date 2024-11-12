@@ -69,6 +69,33 @@ Advantage: Emphasizes expertise in threat detection and response.
 #### 🔐 **Enterprise SIEM with Threat Intelligence Integration**
 Designed and deployed a custom open-source Security Operations Center (SOC) using Graylog and Wazuh, improving threat detection and response times by 75%.
 
+#### 🛡️ **Machine Learning for Security**
+Objective: Use ML to identify platform security vulnerabilities or threats.
+Key Tasks:
+Train models for anomaly detection on platform logs.
+Build a phishing detection or bot identification ML pipeline.
+Apply federated learning techniques for security without compromising privacy.
+Tools/Technologies: TensorFlow, Python, ElasticSearch, MITRE ATT&CK.
+Advantage: Combines your cybersecurity knowledge with cutting-edge AI techniques.
+
+#### 🛡️ **API Security Testing Framework**
+Objective: Develop a framework to test API security, focusing on platform APIs.
+Key Tasks:
+Automate testing for OWASP API vulnerabilities.
+Simulate real-world API abuse scenarios (e.g., rate-limiting bypass, IDOR).
+Build detailed reporting for discovered vulnerabilities.
+Tools/Technologies: Postman, Burp Suite, Python, OWASP ZAP.
+Advantage: Reinforces your expertise in securing platform-facing APIs.
+
+#### 🛡️ **Container Runtime Security**
+Objective: Secure containerized environments by hardening container runtimes.
+Key Tasks:
+Develop tools to detect misconfigurations in container deployments.
+Implement runtime protection using Seccomp or AppArmor.
+Create a report on Kubernetes-specific attack vectors and mitigations.
+Tools/Technologies: Docker, Kubernetes, Seccomp, AppArmor, Falco.
+Advantage: Demonstrates your ability to secure modern platform infrastructures.
+
 #### 🛡️ **Penetration Testing Toolkit Automation**
 Developed an automated toolkit for red teaming exercises, significantly reducing manual testing efforts for network security assessments.
 
