@@ -25,7 +25,7 @@ I’m a passionate Security Engineer with expertise in cybersecurity architectur
   - S3 (Simple Storage Service)
   - RDS (Relational Database Service)
   - CodeBuild, CloudFormation, Lambda, IAM (Identity and Access Management)
-- **Other Tools**: JFrog, Prometheus, Grafana
+- **Other Tools**: Prometheus, Grafana
 
 #### ⚡ **Apache Tools**
 - Apache HTTP Server, Apache Tomcat, Kafka
