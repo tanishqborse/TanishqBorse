@@ -84,7 +84,7 @@ Tools/Technologies: Docker, Kubernetes, Seccomp, AppArmor, Falco.
 #### 🛡️ **Penetration Testing Toolkit Automation**
 Developed an automated toolkit for red teaming exercises, significantly reducing manual testing efforts for network security assessments.
 
-#### 🛡️ ** Automated Vulnerability Management Pipeline**
+#### 🛡️ **Automated Vulnerability Management Pipeline**
 Objective: Build an automated pipeline for detecting, prioritizing, and remediating vulnerabilities in enterprise environments.
 Key Tasks:
 Integrate tools like Nessus or Qualys with CI/CD pipelines. Automate dependency scanning using tools like SonarQube or Snyk. Create a dashboard showing real-time vulnerability stats and remediation status.
