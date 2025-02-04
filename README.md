@@ -99,15 +99,6 @@ Advantage: Demonstrates your ability to secure modern platform infrastructures.
 #### 🛡️ **Penetration Testing Toolkit Automation**
 Developed an automated toolkit for red teaming exercises, significantly reducing manual testing efforts for network security assessments.
 
-#### 🛡️ **macOS Security Controls Project**
-Objective: Develop and implement advanced security controls for macOS systems.
-Key Tasks:
-Implement hardening measures for macOS using configuration profiles or MDM tools.
-Create a custom script for macOS vulnerability scanning.
-Secure macOS file systems using FileVault and monitoring kernel extensions.
-Research and mitigate macOS-specific threats.
-Tools/Technologies: Jamf, OpenSCAP, FileVault, Python/Bash.
-
 #### 🛡️ ** Automated Vulnerability Management Pipeline**
 Objective: Build an automated pipeline for detecting, prioritizing, and remediating vulnerabilities in enterprise environments.
 Key Tasks:
