@@ -12,18 +12,15 @@
 I’m a **Security Engineer** passionate about **Application Security, Secure Code Reviews, Threat Modeling, and Security Automation**.  
 I specialize in **DevSecOps, AI-powered Security, and Cloud Security** while building **automated security solutions** for modern enterprises.
 
+Security is more than just my profession—it’s my passion and purpose. With a background in Computer Science, I have always been fascinated by the intersection of technology, security, and business innovation. I believe cybersecurity should not be an afterthought or a blocker but a strategic enabler that helps organizations move faster, innovate securely, and scale with confidence. My work focuses on securing applications and products, integrating security seamlessly into development workflows, and leveraging AI-driven security solutions to stay ahead of evolving threats.
+I am particularly passionate about IoT security, where the convergence of physical and digital security presents unique challenges, and Deep Learning for Security, where AI can revolutionize threat detection, anomaly detection, and malware analysis. My expertise extends to cryptography, ensuring the integrity, confidentiality, and authenticity of critical data, as well as threat modeling, proactively identifying and mitigating risks in software design. I thrive on solving complex security problems, performing secure code reviews, designing secure architectures, and embedding security into CI/CD pipelines to make security an integral part of software engineering.
+Beyond technical implementation, I have also been deeply involved in product roadmap planning for security, ensuring that security is embedded from the early stages of development and aligns with business objectives. My experience in leadership and entrepreneurship roles has given me a unique perspective on how security can drive business success, not hinder it. I am passionate about mentoring and enabling teams to adopt a security-first mindset, fostering a culture where security is seen as an asset rather than a constraint.
+More than just finding vulnerabilities, I aim to build resilient, scalable, and attack-aware systems that don’t just meet compliance but actually enhance business value, efficiency, and trust. To me, security isn’t just about defending against threats—it’s about empowering organizations to operate with confidence, ensuring security drives innovation rather than hindering it. My goal is to contribute to a future where security is not feared but embraced, where security-first design becomes the standard, and where cybersecurity plays a fundamental role in shaping the next generation of technology.
+
 💡 *"Security should be **built-in**, not **bolted-on**."*  
 
-### **Core Focus Areas**
-✅ **Secure Code Reviews & AppSec Automation**  
-✅ **Threat Modeling & Secure Architecture**  
-✅ **DevSecOps & Secure CI/CD Pipelines**  
-✅ **Cloud Security (AWS, GCP, Kubernetes)** 
-✅ **AI for Security (Deep Learning for Malware Detection & Anomaly Detection)**  
-✅ **IOT Security**  
-✅ **Security Research & Open Source Contributions**  
-
 ---
+
 
 ## 🛠️ **Tech & Tools I Work With**
 ### **Languages & Scripting**
