@@ -68,19 +68,14 @@ A **container security tool** that scans **Kubernetes clusters for misconfigurat
 
 ---
 #### 🔒 **Advanced Malware Detection System**
-Leveraged deep learning and dynamic analysis data to detect evolving malware variants using a self-supervised Transformers model.
+Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures, Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15%.
 
-#### 🔒 **Secure Remote Attestation for Platforms**
-Objective: Create a remote attestation framework for verifying the integrity of platform devices.
-Key Tasks: Design a lightweight protocol for integrity checks on macOS or Linux devices.
-Implement cryptographic techniques for tamper-proof attestations.
-Ensure scalability and real-time integrity verification.
-Tools/Technologies: Go, TPM, Python, OpenSSL.
-Advantage: Highlights expertise in cryptography and device integrity, a crucial focus for platform security.
+#### 🔒 **Firmware Threat Detection for MCU's **
+Designed and developed a remote attestation framework for MCU’s running audio sensing software which ensures data integrity and security in 10,000+ devices in contested environments with a centralized verifier using a novel lightweight cryptographic algorithm.
 
 #### 🔒 **Platform-Wide Threat Hunting Framework**
-Objective: Build a platform-specific threat-hunting framework to detect advanced persistent threats (APTs).
-Key Tasks: Design custom detections for malware patterns or lateral movement. Leverage MITRE ATT&CK framework for building hunt hypotheses. Automate log correlation and anomaly detection using SIEM tools. 
+Build a platform-specific threat-hunting framework to detect advanced persistent threats (APTs).
+Design custom detections for malware patterns or lateral movement. Leverage MITRE ATT&CK framework for building hunt hypotheses. Automate log correlation and anomaly detection using SIEM tools. 
 Tools/Technologies: Splunk, ElasticSearch, Python, MITRE ATT&CK, YARA.
 Advantage: Emphasizes expertise in threat detection and response.
 
@@ -88,19 +83,17 @@ Advantage: Emphasizes expertise in threat detection and response.
 Designed and deployed a custom open-source Security Operations Center (SOC) using Graylog and Wazuh, improving threat detection and response times by 75%.
 
 #### 🛡️ **Machine Learning for Security**
-Objective: Use ML to identify platform security vulnerabilities or threats.
-Key Tasks: Train models for anomaly detection on platform logs. Build a phishing detection or bot identification ML pipeline. Apply federated learning techniques for security without compromising privacy.
+Use ML to identify platform security vulnerabilities or threats.
+Train models for anomaly detection on platform logs. Build a phishing detection or bot identification ML pipeline. Apply federated learning techniques for security without compromising privacy.
 Tools/Technologies: TensorFlow, Python, ElasticSearch, MITRE ATT&CK.
 
 #### 🛡️ **API Security Testing Framework**
-Objective: Develop a framework to test API security, focusing on platform APIs.
-Key Tasks:
+Develop a framework to test API security, focusing on platform APIs.
 Automate testing for OWASP API vulnerabilities. Simulate real-world API abuse scenarios (e.g., rate-limiting bypass, IDOR).  Build detailed reporting for discovered vulnerabilities.
 Tools/Technologies: Postman, Burp Suite, Python, OWASP ZAP.
 
 #### 🛡️ **Container Runtime Security**
-Objective: Secure containerized environments by hardening container runtimes.
-Key Tasks:
+Secure containerized environments by hardening container runtimes.
 Develop tools to detect misconfigurations in container deployments. Implement runtime protection using Seccomp or AppArmor. Create a report on Kubernetes-specific attack vectors and mitigations.
 Tools/Technologies: Docker, Kubernetes, Seccomp, AppArmor, Falco.
 
@@ -108,22 +101,15 @@ Tools/Technologies: Docker, Kubernetes, Seccomp, AppArmor, Falco.
 Developed an automated toolkit for red teaming exercises, significantly reducing manual testing efforts for network security assessments.
 
 #### 🛡️ **Automated Vulnerability Management Pipeline**
-Objective: Build an automated pipeline for detecting, prioritizing, and remediating vulnerabilities in enterprise environments.
-Key Tasks:
+Build an automated pipeline for detecting, prioritizing, and remediating vulnerabilities in enterprise environments.
 Integrate tools like Nessus or Qualys with CI/CD pipelines. Automate dependency scanning using tools like SonarQube or Snyk. Create a dashboard showing real-time vulnerability stats and remediation status.
 Tools/Technologies: Jenkins, Python, Terraform, Nessus, ELK Stack.
 
 #### 🔧 **Secure Microservices Architecture**
-Objective: Design a highly secure microservices environment using zero-trust principles.
-Key Tasks:
+Design a highly secure microservices environment using zero-trust principles.
 Implement mutual TLS authentication between microservices. Use service mesh tools like Istio for enhanced security observability. Automate secret management using HashiCorp Vault.
 Build defenses against injection attacks and API abuse.
 Tools/Technologies: Kubernetes, Istio, HashiCorp Vault, OWASP ZAP.
-
----
-## 🔒 **Advanced Security Research & Projects**
-#### 🔍 **Advanced Malware Detection System**
-  - Built a Deep Learning model for detecting polymorphic malware variants using **self-supervised Transformers**.
 
 #### 🔍 **Platform-Wide Threat Hunting Framework**
 - Designed a threat-hunting framework leveraging **MITRE ATT&CK** for detecting **APTs (Advanced Persistent Threats)**.
