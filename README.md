@@ -48,24 +48,6 @@ I specialize in **DevSecOps, AI-powered Security, and Cloud Security** while bui
 ---
 
 ## 📌 **Featured Security Projects**
-
-🔹 **[🔍 Automated Secure Code Review](https://github.com/yourrepo)**  
-🛠️ A Python-based **static analysis tool** to detect **security vulnerabilities in source code**.  
-
-🔹 **[🛡️ Threat Modeling Automation](https://github.com/yourrepo)**  
-🎯 A tool to **automate threat modeling** for **software architecture diagrams**, based on **OWASP STRIDE**.  
-
-🔹 **[🔄 Secure CI/CD Pipeline](https://github.com/yourrepo)**  
-🏗️ A **DevSecOps pipeline** that scans code using **SAST, DAST, and container security tools** before deployment.  
-
-🔹 **[🤖 Deep Learning for Malware Detection](https://github.com/yourrepo)**  
-AI-powered malware classification using **deep learning** to detect evolving cyber threats.  
-
-🔹 **[☸️ Kubernetes Security Scanner](https://github.com/yourrepo)**  
-A **container security tool** that scans **Kubernetes clusters for misconfigurations & security vulnerabilities**.  
-
-📌 *Explore all my projects [here](https://github.com/yourgithub?tab=repositories).*  
-
 ---
 #### 🔒 **Advanced Malware Detection System**
 Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures, Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15%.
@@ -125,6 +107,24 @@ Tools/Technologies: Kubernetes, Istio, HashiCorp Vault, OWASP ZAP.
 
 #### 🔍 **API Security Testing Framework**
 - Developed an automated API security testing toolkit to detect **OWASP API vulnerabilities**.
+
+
+🔹 **[🔍 Automated Secure Code Review](https://github.com/yourrepo)**  
+🛠️ A Python-based **static analysis tool** to detect **security vulnerabilities in source code**.  
+
+🔹 **[🛡️ Threat Modeling Automation](https://github.com/yourrepo)**  
+🎯 A tool to **automate threat modeling** for **software architecture diagrams**, based on **OWASP STRIDE**.  
+
+🔹 **[🔄 Secure CI/CD Pipeline](https://github.com/yourrepo)**  
+🏗️ A **DevSecOps pipeline** that scans code using **SAST, DAST, and container security tools** before deployment.  
+
+🔹 **[🤖 Deep Learning for Malware Detection](https://github.com/yourrepo)**  
+AI-powered malware classification using **deep learning** to detect evolving cyber threats.  
+
+🔹 **[☸️ Kubernetes Security Scanner](https://github.com/yourrepo)**  
+A **container security tool** that scans **Kubernetes clusters for misconfigurations & security vulnerabilities**.  
+
+📌 *Explore all my projects [here](https://github.com/yourgithub?tab=repositories).*  
 
 ---
 
