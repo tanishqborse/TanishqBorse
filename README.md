@@ -1,49 +1,72 @@
-## Hello Security Professionals 👋
+<h1 align="center">👋 Hi, I'm Tanishq 👨‍💻🔐</h1>
 
-I’m a passionate Security Engineer with expertise in cybersecurity architecture, offensive and defensive security, and automation of security processes. With a solid foundation in vulnerability management, incident response, and cloud security, I excel in designing and implementing scalable security solutions that protect enterprise infrastructure from advanced threats. Along with my technical skills, I have been actively involved in security research, threat modeling, and penetration testing to ensure robust security postures for organizations.
-
----
-
-### 🛠️ **Tools and Technology**
-
-#### 🚀 **Backend Skills**
-- **Languages**: C/C++, Python, Java, Go
-- **APIs**: RESTful APIs
-
-#### 🎨 **Front-End Skills**
-- **Frameworks & Libraries**: React, Angular, Next.js
-- **Languages**: HTML, CSS, JavaScript
-
-#### 🔧 **DevOps Skills**
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, CI/CD pipelines
-- **Cloud Platforms**: AWS, Azure
-- **AWS Services**:
-  - EC2 (Elastic Compute Cloud)
-  - ECS (Elastic Container Service)
-  - ECR (Elastic Container Registry)
-  - S3 (Simple Storage Service)
-  - RDS (Relational Database Service)
-  - CodeBuild, CloudFormation, Lambda, IAM (Identity and Access Management)
-- **Other Tools**: Prometheus, Grafana
-
-#### ⚡ **Apache Tools**
-- Apache HTTP Server, Apache Tomcat, Kafka
+<p align="center">
+  <a href="https://linkedin.com/in/tanishqborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tb7223@rit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://camasecurity.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=google-chrome&logoColor=white"></a>
+</p>
 
 ---
 
-### 🛡️ **Core Competencies**
-- **Offensive Security**: Penetration Testing, Red Teaming, Vulnerability Exploitation
-- **Defensive Security**: SIEM Implementation, Threat Intelligence, Security Automation
-- **Cloud Security**: AWS, Azure, GCP security best practices
-- **Incident Response & Forensics**: Incident detection, forensics analysis
-- **Automation**: Python, Bash, cloud-native security automation
-- **Security Research**: Malware analysis, AI-driven cybersecurity, threat modeling
+## 🔐 **About Me**
+I’m a **Security Engineer** passionate about **Application Security, Secure Code Reviews, Threat Modeling, and Security Automation**.  
+I specialize in **DevSecOps, AI-powered Security, and Cloud Security** while building **automated security solutions** for modern enterprises.
+
+💡 *"Security should be **built-in**, not **bolted-on**."*  
+
+### **Core Focus Areas**
+✅ **Secure Code Reviews & AppSec Automation**  
+✅ **Threat Modeling & Secure Architecture**  
+✅ **DevSecOps & Secure CI/CD Pipelines**  
+✅ **Cloud Security (AWS, GCP, Kubernetes)** 
+✅ **AI for Security (Deep Learning for Malware Detection & Anomaly Detection)**  
+✅ **IOT Security**  
+✅ **Security Research & Open Source Contributions**  
 
 ---
 
-### 🔥 **Key Projects**
+## 🛠️ **Tech & Tools I Work With**
+### **Languages & Scripting**
+🐍 **Python** | 🖥️ **Bash** | 🛠️ **JavaScript** 🐍 **C++** | 🖥️ **Go** | 🛠️ **Java**
 
+### **Security Tools**
+🛡️ **OWASP ZAP** | 🔎 **Burp Suite** | 📊 **Semgrep, Bandit** | 🕵️ **YARA, Snort**
+
+### **DevSecOps & Automation**
+🐳 **Docker** | ☸️ **Kubernetes** | 🔄 **GitHub Actions, Jenkins** | 🏗️ **Terraform, Ansible**
+
+### **SIEM & Threat Hunting**
+🕵️‍♂️ **Splunk** | ⚡ **Graylog, Wazuh** | 🚨 **CrowdStrike Falcon**
+
+### **Cloud & Infrastructure Security**
+☁️ **AWS Security** | 🔐 **Azure Security** | 🏗️ **Terraform, Kubernetes Hardening**
+
+### **Machine Learning for Security**
+🤖 **Deep Learning for Malware & Threat Detection**
+📊 **AI for Log Analysis & Anomaly Detection**
+
+---
+
+## 📌 **Featured Security Projects**
+
+🔹 **[🔍 Automated Secure Code Review](https://github.com/yourrepo)**  
+🛠️ A Python-based **static analysis tool** to detect **security vulnerabilities in source code**.  
+
+🔹 **[🛡️ Threat Modeling Automation](https://github.com/yourrepo)**  
+🎯 A tool to **automate threat modeling** for **software architecture diagrams**, based on **OWASP STRIDE**.  
+
+🔹 **[🔄 Secure CI/CD Pipeline](https://github.com/yourrepo)**  
+🏗️ A **DevSecOps pipeline** that scans code using **SAST, DAST, and container security tools** before deployment.  
+
+🔹 **[🤖 Deep Learning for Malware Detection](https://github.com/yourrepo)**  
+AI-powered malware classification using **deep learning** to detect evolving cyber threats.  
+
+🔹 **[☸️ Kubernetes Security Scanner](https://github.com/yourrepo)**  
+A **container security tool** that scans **Kubernetes clusters for misconfigurations & security vulnerabilities**.  
+
+📌 *Explore all my projects [here](https://github.com/yourgithub?tab=repositories).*  
+
+---
 #### 🔒 **Advanced Malware Detection System**
 Leveraged deep learning and dynamic analysis data to detect evolving malware variants using a self-supervised Transformers model.
 
@@ -98,42 +121,75 @@ Build defenses against injection attacks and API abuse.
 Tools/Technologies: Kubernetes, Istio, HashiCorp Vault, OWASP ZAP.
 
 ---
+## 🔒 **Advanced Security Research & Projects**
+#### 🔍 **Advanced Malware Detection System**
+  - Built a Deep Learning model for detecting polymorphic malware variants using **self-supervised Transformers**.
 
-### 📜 **Certifications and Continuous Learning**
-- **Certifications**: CEH v11 EC-Council, IBM Cybersecurity Analyst, Deep Learning Specialization, and OSCP (in progress).
-- **Ongoing Learning**: Continuously honing my skills in advanced penetration testing, red teaming, and cloud security through CTFs and hands-on labs.
+#### 🔍 **Platform-Wide Threat Hunting Framework**
+- Designed a threat-hunting framework leveraging **MITRE ATT&CK** for detecting **APTs (Advanced Persistent Threats)**.
 
----
+#### 🔍 **Enterprise SIEM with Threat Intelligence**
+- Developed an integrated Security Operations Center (SOC) with **Graylog & Wazuh** for **real-time threat detection**.
 
-### 🛠️ **Security Tools and Technologies**
-- **Penetration Testing**: BurpSuite, Metasploit, Nmap, Wireshark
-- **SIEM/EDR**: Graylog, Wazuh, Crowdstrike Falcon, Splunk
-- **Cloud Security**: AWS, Azure, Docker, Terraform, Kubernetes
-- **DevOps/Security Automation**: Jenkins, Ansible, CI/CD pipelines, Security Orchestration
+#### 🔍 **Machine Learning for Security**
+- Built ML models for anomaly detection in system logs, API security analysis, and phishing detection.
 
----
+#### 🔍 **Container Runtime Security**
+- Hardened containerized workloads by implementing **runtime protection** using **Falco, AppArmor, and Seccomp**.
 
-### 📚 **Security Community Contributions**
-I am passionate about sharing knowledge and contributing to the security community:
-- **Blog Posts**: [Securing Cloud Infrastructure](#) | [How to Build Resilient SOCs](#)
-- **Open-source Contributions**: Aspiring Contributor to security repositories, including tools for automating penetration testing workflows.
-- **Conferences & Workshops**: Volunteer at Rochester Security Summit, and B-Sides conferences on AI/Cloud/GRC security.
+#### 🔍 **API Security Testing Framework**
+- Developed an automated API security testing toolkit to detect **OWASP API vulnerabilities**.
 
 ---
 
+## 📚 **Certifications & Continuous Learning**
+🎓 **Certifications:**  
+✅ **Certified Ethical Hacker (CEH) v11**  
+✅ **IBM Cybersecurity Analyst**  
+✅ **Deep Learning Specialization (Andrew Ng, Coursera)**  
+🎯 **OSCP (In Progress)**  
+
+📖 **Ongoing Learning:**  
+- **Post-Quantum Cryptography Research**: Exploring **SPHINCS+ and Crystals-Dilithium** for **secure authentication**.  
+- **Cyber Threat Intelligence (CTI)**: **Building real-world threat models and predictive security intelligence**.  
+
+---
 ### 📄 **Publications and Research**
 - **Whitepaper**: *Collective Attestation for IoT Devices* - Patented Framework.
 - **Research**: Published a white paper on "The underlying risks of implementing Multimedia in Next-Gen 911 systems" and presented it at the **United States Capitol**.
 - **Advanced Distributed Networking Research**: Explored the impact of adversarial attacks on machine learning models, and how to defend AI systems from poisoning and inference attacks.
 - **Post Quantum Cryptography Research**: Proposed an MVP for implementing Post-Quantum Digital Signatures like Sphincs+ and Crystalls Dyllitheum on a resource-constrained Smart Card reader to enable secure transactions in a Post-Quantum Crypto Era.
 - **AWS Cybersecurity Report**: Asset Identification, Threat Modelling, Risk Matrix, Impact Analysis, Devised a Cybersecurity Budget based on a low Budget, Medium, and Money-not-an-object Budget. Listed the different types of controls such as preventative, detective, forensic, audit, deterrent, and residual controls. And also suggested the top 10 most impactful security controls that covers the most significant risks given a tight security budget.
+---
+
+## 🌱 **Security Community Contributions**
+🔹 **Blog Posts & Research**  
+- **Securing Cloud Infrastructure**  
+- **AI in Cybersecurity: The Future of Threat Detection**  
+
+🔹 **Open-source Contributions**  
+- Contributing to **security automation frameworks & vulnerability detection tools**.  
+
+🔹 **Conferences & Workshops**  
+- **Speaker at Rochester Security Summit**  
+- **Volunteer at B-Sides Security Conferences**  
 
 ---
 
-### 🤝 **Let's Collaborate**
-I'm always open to collaborating on new and exciting security challenges. Feel free to reach out for consulting, security research, or contributions to open-source security projects.
+## 📢 **Let's Connect & Collaborate**
+📩 Feel free to reach out for **collaborations, security research, and open-source projects**.
+
+🔗 **LinkedIn:** [linkedin.com/in/tanishqborse](https://linkedin.com/in/tanishqborse)  
+🌐 **Portfolio:** [camasecurity.com](https://camasecurity.com)  
+📧 **Email:** [tb7223@rit.edu](mailto:tb7223@rit.edu)  
+
+💬 *Let’s talk about **security, automation, and AI in cybersecurity!** 🚀*  
 
 ---
 
-### 🌐 **Connect with Me**
-[GitHub](https://github.com/tanishqborse) | [LinkedIn](https://linkedin.com/in/tanishqborse)
+## ⭐ **Support My Work**
+If you find my projects **helpful**, consider **starring ⭐** my repositories!  
+
+<p align="center">
+  <a href="https://github.com/yourgithub"><img src="https://img.shields.io/github/stars/yourgithub?style=social"></a>
+</p>
