@@ -18,34 +18,44 @@ I am particularly passionate about IoT security, where the convergence of physic
 
 
 ## 🛠️ **Tech & Tools I Work With**
-### **Languages & Scripting**
-🐍 **Python** | 🖥️ **Bash** | 🛠️ **JavaScript** 🐍 **C++** | 🖥️ **Go** | 🛠️ **Java**
-
-### **Security Tools**
-🛡️ **OWASP ZAP** | 🔎 **Burp Suite** | 📊 **Semgrep, Bandit** | 🕵️ **YARA, Snort**
-
-### **DevSecOps & Automation**
-🐳 **Docker** | ☸️ **Kubernetes** | 🔄 **GitHub Actions, Jenkins** | 🏗️ **Terraform, Ansible**
-
-### **SIEM & Threat Hunting**
-🕵️‍♂️ **Splunk** | ⚡ **Graylog, Wazuh** | 🚨 **CrowdStrike Falcon**
-
-### **Cloud & Infrastructure Security**
-☁️ **AWS Security** | 🔐 **Azure Security** | 🏗️ **Terraform, Kubernetes Hardening**
-
-### **Machine Learning for Security**
-🤖 **Deep Learning for Malware & Threat Detection**
-📊 **AI for Log Analysis & Anomaly Detection**
+🚀**Languages & Scripting**
+🐍 Python | 🖥️ Bash | 🎯 PowerShell | 📜 JavaScript | 🛠️ C++ | ⚙️ Go | ☕ Java
+🔐 **Security Tools**
+🔎 Burp Suite | 🛡️ Nessus | 🕵️ YARA, Snort | 📊 Semgrep, Bandit | 📡 Wireshark | 🎯 Metasploit, BloodHound
+📡 Nmap | 🔍 Trivy, SonarQube | ⚡ Splunk, Wazuh | 🛑 CrowdStrike Falcon
+⚙️**DevSecOps & Automation**
+🐳 Docker | ☸️ Kubernetes | 🔄 GitHub Actions, Jenkins | 🏗️ Terraform, Ansible
+🕵️‍♂️ **SIEM & Threat Hunting**
+📈 Splunk | ⚡ Graylog, Wazuh | 🚨 CrowdStrike Falcon
+☁️ **Cloud & Infrastructure Security**
+🔐 AWS Security | ☁️ Azure Security | 🏗️ Terraform, Kubernetes Hardening
+🤖 **Machine Learning for Security**
+🔬 Deep Learning for Malware & Threat Detection
+📊 AI for Log Analysis & Anomaly Detection
+📜 **Frameworks & Standards**
+📑 NIST, ISO 27001, OWASP, CIS Controls
+🌐 **Network & Endpoint Security**
+🛡️ Firewalls, VPNs, IDS/IPS, Network Segmentation
+🖥️ EDR, Patch Management, Antivirus
+⚡ **Incident Response & Compliance**
+🚨 SIEM, Threat Hunting, Digital Forensics
+🏛️ GDPR, HIPAA, PCI-DSS Compliance & Auditing
 
 ---
 
 ## 📌 **Featured Security Projects**
 ---
-#### 🔒 **Advanced Malware Detection System**
-Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures, Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15%.
+#### 🔒 **AI-powered Malware Detection System**
+- Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures for advanced threat identification.
+- Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15% and improving detection accuracy.
 
-#### 🔒 **Firmware Threat Detection for MCU's **
-Designed and developed a remote attestation framework for MCU’s running audio sensing software which ensures data integrity and security in 10,000+ devices in contested environments with a centralized verifier using a novel lightweight cryptographic algorithm.
+#### 🔒 **Secure Remote Attestation for MCUs**
+- Designed and developed a remote attestation framework for MCUs running audio sensing software, ensuring data integrity and security across 10,000+ devices in contested environments.
+- Implemented a novel lightweight cryptographic algorithm with a centralized verifier, enhancing device trustworthiness while maintaining efficiency in resource-constrained systems.
+
+#### 🔐 **Secure Web Application Development**
+- Developed a web application with secure coding practices to mitigate SQL injection, XSS, and CSRF, ensuring robust application security.
+- Implemented strong authentication and authorization mechanisms, including multi-factor authentication (MFA), to enhance user access security.
 
 #### 🔒 **Platform-Wide Threat Hunting Framework**
 Build a platform-specific threat-hunting framework to detect advanced persistent threats (APTs).
