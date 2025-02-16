@@ -57,6 +57,22 @@ I am particularly passionate about IoT security, where the convergence of physic
 - Developed a web application with secure coding practices to mitigate SQL injection, XSS, and CSRF, ensuring robust application security.
 - Implemented strong authentication and authorization mechanisms, including multi-factor authentication (MFA), to enhance user access security.
 
+#### 🛡️ **AUTOMATED PHISHING SUSCEPTIBILITY TEST**
+- Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns.
+- Integrated real-time analytics and reporting to measure phishing resilience, track behavioral patterns, and provide targeted security awareness training.
+
+#### 🛡️ **AWS Security Risk Assessment & Threat Modeling**
+- Led an AWS Enterprise Security Risk Assessment, conducting asset identification, threat modeling, and impact analysis for critical cloud services.
+- Developed a risk matrix and remediation plan aligned with NIST 800-53 and CIS benchmarks, optimizing security investments with a multi-tier budget strategy, and improving cost efficiency by 30%.
+
+#### 🔒 **Secure Infrastructure Lab – Real-World Cyber Defense Simulation**
+- Engineered a full-scale enterprise security lab on ESXi 7, replicating real-world IT environments with Active Directory, DNS, mail server, and a custom Dockerized Python web app—built to withstand modern cyber threats.
+- Led immersive Red Team vs. Blue Team exercises, conducting advanced vulnerability assessments, attack simulations, and defensive countermeasures, culminating in a detailed cybersecurity report with actionable insights for a hardened, production-ready deployment.
+
+#### 🔐 **Secure Web Server**
+- Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
+- Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
+
 #### 🔒 **Platform-Wide Threat Hunting Framework**
 Build a platform-specific threat-hunting framework to detect advanced persistent threats (APTs).
 Design custom detections for malware patterns or lateral movement. Leverage MITRE ATT&CK framework for building hunt hypotheses. Automate log correlation and anomaly detection using SIEM tools. 
