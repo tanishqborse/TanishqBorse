@@ -181,8 +181,8 @@ A **container security tool** that scans **Kubernetes clusters for misconfigurat
 - Contributing to **security automation frameworks & vulnerability detection tools**.  
 
 🔹 **Conferences & Workshops**  
-- **Speaker at Rochester Security Summit**  
-- **Volunteer at B-Sides Security Conferences**  
+- **Rochester Security Summit**  
+- **B-Sides Security Conference ROC**  
 
 ---
 
