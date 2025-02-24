@@ -86,6 +86,8 @@ Advantage: Emphasizes expertise in threat detection and response.
 #### 🔐 **Enterprise SIEM with Threat Intelligence Integration**
 Designed and deployed a custom open-source Security Operations Center (SOC) using Graylog and Wazuh, improving threat detection and response times by 75%.
 
+####**TO_DO**
+
 #### 🛡️ **Machine Learning for Security**
 Use ML to identify platform security vulnerabilities or threats.
 Train models for anomaly detection on platform logs. Build a phishing detection or bot identification ML pipeline. Apply federated learning techniques for security without compromising privacy.
