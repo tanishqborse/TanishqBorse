@@ -100,41 +100,50 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 ## 🌱 **Security Community Contributions**
 🔹 **Blog Posts & Research**
     - [Read..](https://github.com/tanishqborse/Security-Blogs)
-  
 
-🔹 **Open-source Contributions**  
-    -  I love these Open-Source projects and I hope to contribute to them in my free time. 
-        **AI & Security**
-          - Nebula ()
-          -  DeepExploit 
-          -  TensorFlow Privacy
-          -  JAX
-          -  Adversarial Robustness Toolbox (ART)
-        **Security & Privacy**
-          - OSQuery
-          - Trivy 
-          - ZAP (OWASP) 
-          - Tor Project
-          - Google's Tink 
-          - Let’s Encrypt 
-        **DevSecOps & Infrastructure Security**
-          - Semgrep – Lightweight static analysis for secure code reviews.
-          - GitLeaks – Detect hardcoded secrets in repos.
-          - HardenRunner – Secure GitHub Actions workflows.
-          - Kubernetes Security (kube-bench) – Checks Kubernetes security best practices.
-          - Cloud Custodian – Security & compliance automation for cloud environments.
-        **Threat Intelligence & Detection Engineering**
-          - Sigma – SIEM rule detection (Used in enterprise threat intelligence).
-          - TheHive – Open-source Security Incident Response Platform (SIRP).
-          - YARA – Malware detection rules framework.
-          - Suricata – Intrusion detection/prevention system.
-          - Threat Dragon – Open-source threat modeling tool.**
-        **Embedded Systems Security**
-          - OpenTitan
-          
-🔹 **Conferences & Workshops**  
-     - **Rochester Security Summit**  
-     - **B-Sides Security Conference ROC**  
+--- 
+
+## 🔹 **Open-Source Contributions**
+
+I love these Open-Source projects and I hope to contribute to them in my free time.  
+
+### **AI & Security**
+- [Nebula](#)
+- [DeepExploit](#)
+- [TensorFlow Privacy](#)
+- [JAX](#)
+- [Adversarial Robustness Toolbox (ART)](#)
+
+### **Security & Privacy**
+- [OSQuery](#)
+- [Trivy](#)
+- [ZAP (OWASP)](#)
+- [Tor Project](#)
+- [Google's Tink](#)
+- [Let’s Encrypt](#)
+
+### **DevSecOps & Infrastructure Security**
+- [Semgrep](#) – Lightweight static analysis for secure code reviews.
+- [GitLeaks](#) – Detect hardcoded secrets in repos.
+- [HardenRunner](#) – Secure GitHub Actions workflows.
+- [Kubernetes Security (kube-bench)](#) – Checks Kubernetes security best practices.
+- [Cloud Custodian](#) – Security & compliance automation for cloud environments.
+
+### **Threat Intelligence & Detection Engineering**
+- [Sigma](#) – SIEM rule detection (Used in enterprise threat intelligence).
+- [TheHive](#) – Open-source Security Incident Response Platform (SIRP).
+- [YARA](#) – Malware detection rules framework.
+- [Suricata](#) – Intrusion detection/prevention system.
+- [Threat Dragon](#) – Open-source threat modeling tool.
+
+### **Embedded Systems Security**
+- [OpenTitan](#)
+
+---
+
+## 🔹 **Conferences & Workshops**
+- **Rochester Security Summit**  
+- **B-Sides Security Conference ROC**  
 
 ---
 
