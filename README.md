@@ -103,7 +103,8 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 
 ## 🌱 **Security Community Contributions**
 🔹 **Blog Posts & Research**
-- **Click to Read  
+- **[Read..](https://github.com/tanishqborse/Security-Blogs)
+  
 
 🔹 **Open-source Contributions**  
 - Contributing to **security automation frameworks & vulnerability detection tools**.  
