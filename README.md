@@ -37,7 +37,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 🔬 Deep Learning for Malware & Threat Detection
 📊 AI for Log Analysis & Anomaly Detection
 📜 **Frameworks & Standards**
-📑 NIST, ISO 27001, OWASP, CIS Controls
+📑 NIST, ISO 27001, OWASP, CIS Controls, FERC, CMCC
 🌐 **Network & Endpoint Security**
 🛡️ Firewalls, VPNs, IDS/IPS, Network Segmentation
 🖥️ EDR, Patch Management, Antivirus
@@ -88,10 +88,6 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 ✅ **Deep Learning Specialization (Andrew Ng, Coursera)**  
 🎯 **OSCP (In Progress)**  
 
-📖 **Ongoing Learning:**  
-- **Post-Quantum Cryptography Research**: Exploring **SPHINCS+ and Crystals-Dilithium** for **secure authentication**.  
-- **Cyber Threat Intelligence (CTI)**: **Building real-world threat models and predictive security intelligence**.  
-
 ---
 ### 📄 **Publications and Research**
 - **Whitepaper**: *Collective Attestation for IoT Devices* - Patented Framework.
@@ -103,7 +99,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 
 ## 🌱 **Security Community Contributions**
 🔹 **Blog Posts & Research**
-- **[Read..](https://github.com/tanishqborse/Security-Blogs)
+- [Read..](https://github.com/tanishqborse/Security-Blogs)
   
 
 🔹 **Open-source Contributions**  
