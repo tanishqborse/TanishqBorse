@@ -62,7 +62,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Implemented strong authentication and authorization mechanisms, including multi-factor authentication (MFA), to enhance user access security.
 
 #### 🛡️ **AUTOMATED PHISHING SUSCEPTIBILITY TEST**
-- Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns.
+- Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns on Multifactor Authentication applications such as DUO.
 - Integrated real-time analytics and reporting to measure phishing resilience, track behavioral patterns, and provide targeted security awareness training.
 
 #### 🛡️ **AWS Security Risk Assessment & Threat Modeling**
