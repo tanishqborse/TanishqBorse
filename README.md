@@ -77,78 +77,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
 - Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
 
-#### 🔒 **Platform-Wide Threat Hunting Framework**
-Build a platform-specific threat-hunting framework to detect advanced persistent threats (APTs).
-Design custom detections for malware patterns or lateral movement. Leverage MITRE ATT&CK framework for building hunt hypotheses. Automate log correlation and anomaly detection using SIEM tools. 
-Tools/Technologies: Splunk, ElasticSearch, Python, MITRE ATT&CK, YARA.
-Advantage: Emphasizes expertise in threat detection and response.
-
-#### 🔐 **Enterprise SIEM with Threat Intelligence Integration**
-Designed and deployed a custom open-source Security Operations Center (SOC) using Graylog and Wazuh, improving threat detection and response times by 75%.
-
-####**TO_DO**
-
-#### 🛡️ **Machine Learning for Security**
-Use ML to identify platform security vulnerabilities or threats.
-Train models for anomaly detection on platform logs. Build a phishing detection or bot identification ML pipeline. Apply federated learning techniques for security without compromising privacy.
-Tools/Technologies: TensorFlow, Python, ElasticSearch, MITRE ATT&CK.
-
-#### 🛡️ **API Security Testing Framework**
-Develop a framework to test API security, focusing on platform APIs.
-Automate testing for OWASP API vulnerabilities. Simulate real-world API abuse scenarios (e.g., rate-limiting bypass, IDOR).  Build detailed reporting for discovered vulnerabilities.
-Tools/Technologies: Postman, Burp Suite, Python, OWASP ZAP.
-
-#### 🛡️ **Container Runtime Security**
-Secure containerized environments by hardening container runtimes.
-Develop tools to detect misconfigurations in container deployments. Implement runtime protection using Seccomp or AppArmor. Create a report on Kubernetes-specific attack vectors and mitigations.
-Tools/Technologies: Docker, Kubernetes, Seccomp, AppArmor, Falco.
-
-#### 🛡️ **Penetration Testing Toolkit Automation**
-Developed an automated toolkit for red teaming exercises, significantly reducing manual testing efforts for network security assessments.
-
-#### 🛡️ **Automated Vulnerability Management Pipeline**
-Build an automated pipeline for detecting, prioritizing, and remediating vulnerabilities in enterprise environments.
-Integrate tools like Nessus or Qualys with CI/CD pipelines. Automate dependency scanning using tools like SonarQube or Snyk. Create a dashboard showing real-time vulnerability stats and remediation status.
-Tools/Technologies: Jenkins, Python, Terraform, Nessus, ELK Stack.
-
-#### 🔧 **Secure Microservices Architecture**
-Design a highly secure microservices environment using zero-trust principles.
-Implement mutual TLS authentication between microservices. Use service mesh tools like Istio for enhanced security observability. Automate secret management using HashiCorp Vault.
-Build defenses against injection attacks and API abuse.
-Tools/Technologies: Kubernetes, Istio, HashiCorp Vault, OWASP ZAP.
-
-#### 🔍 **Platform-Wide Threat Hunting Framework**
-- Designed a threat-hunting framework leveraging **MITRE ATT&CK** for detecting **APTs (Advanced Persistent Threats)**.
-
-#### 🔍 **Enterprise SIEM with Threat Intelligence**
-- Developed an integrated Security Operations Center (SOC) with **Graylog & Wazuh** for **real-time threat detection**.
-
-#### 🔍 **Machine Learning for Security**
-- Built ML models for anomaly detection in system logs, API security analysis, and phishing detection.
-
-#### 🔍 **Container Runtime Security**
-- Hardened containerized workloads by implementing **runtime protection** using **Falco, AppArmor, and Seccomp**.
-
-#### 🔍 **API Security Testing Framework**
-- Developed an automated API security testing toolkit to detect **OWASP API vulnerabilities**.
-
-
-🔹 **[🔍 Automated Secure Code Review](https://github.com/yourrepo)**  
-🛠️ A Python-based **static analysis tool** to detect **security vulnerabilities in source code**.  
-
-🔹 **[🛡️ Threat Modeling Automation](https://github.com/yourrepo)**  
-🎯 A tool to **automate threat modeling** for **software architecture diagrams**, based on **OWASP STRIDE**.  
-
-🔹 **[🔄 Secure CI/CD Pipeline](https://github.com/yourrepo)**  
-🏗️ A **DevSecOps pipeline** that scans code using **SAST, DAST, and container security tools** before deployment.  
-
-🔹 **[🤖 Deep Learning for Malware Detection](https://github.com/yourrepo)**  
-AI-powered malware classification using **deep learning** to detect evolving cyber threats.  
-
-🔹 **[☸️ Kubernetes Security Scanner](https://github.com/yourrepo)**  
-A **container security tool** that scans **Kubernetes clusters for misconfigurations & security vulnerabilities**.  
-
-📌 *Explore all my projects [here](https://github.com/yourgithub?tab=repositories).*  
+📌 *Explore all my projects [here](https://github.com/tanishqborse).*  
 
 ---
 
@@ -173,9 +102,8 @@ A **container security tool** that scans **Kubernetes clusters for misconfigurat
 ---
 
 ## 🌱 **Security Community Contributions**
-🔹 **Blog Posts & Research**  
-- **Securing Cloud Infrastructure**  
-- **AI in Cybersecurity: The Future of Threat Detection**  
+🔹 **Blog Posts & Research**
+- **Click to Read  
 
 🔹 **Open-source Contributions**  
 - Contributing to **security automation frameworks & vulnerability detection tools**.  
