@@ -77,8 +77,19 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
 - Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
 
-📌 *Explore all my projects [here](https://github.com/tanishqborse).*  
+#### 🔐 **AI-Driven AppSec Solutions**
+- .
+- .
 
+#### 🔐 **Threat modeling & DevSecOps processes.**
+- .
+- .
+
+#### 🔐 **SAST/DAST tool integration in SDLC**
+- .
+- .
+  
+*Explore all my projects [here](https://github.com/tanishqborse).*  
 ---
 
 ## 📚 **Certifications & Continuous Learning**
