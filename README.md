@@ -88,6 +88,48 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 #### 🔐 **SAST/DAST tool integration in SDLC**
 - .
 - .
+
+### 1️⃣ Secure Kubernetes Deployment (`secure-k8s-deploy`)
+- **Objective:** Deploy a Kubernetes cluster with built-in security best practices.
+- **Features:**
+  - RBAC (Role-Based Access Control)
+  - Network Policies for pod isolation
+  - Pod Security Standards (PSS) implementation
+  - Security tools: `kube-bench`, `kube-hunter`, `Falco`
+- **Tech Stack:** Kubernetes, Helm, Trivy, kube-hunter, Falco
+- **Status:** 🚧 In Progress
+- 🔗 [Repository](https://github.com/yourusername/secure-k8s-deploy)
+
+### 2️⃣ CI/CD Security Pipeline (`secure-ci-cd-pipeline`)
+- **Objective:** Implement a security-focused CI/CD pipeline.
+- **Features:**
+  - Secure GitHub Actions with least privilege
+  - Secrets management using `Vault` or `SOPS`
+  - SAST integration (`Semgrep`, `CodeQL`)
+  - DAST automation (`OWASP ZAP`)
+- **Tech Stack:** GitHub Actions, GitLab CI/CD, OWASP ZAP, Semgrep
+- **Status:** 🚧 In Progress
+- 🔗 [Repository](https://github.com/yourusername/secure-ci-cd-pipeline)
+
+### 3️⃣ Terraform Secure IaC (`terraform-secure-infra`)
+- **Objective:** Deploy a secure cloud infrastructure using Terraform.
+- **Features:**
+  - Secure Kubernetes cluster provisioning
+  - IAM security best practices (least privilege, MFA enforcement)
+  - Automated security scanning with `Checkov`, `TFSec`
+- **Tech Stack:** Terraform, AWS/GCP, Checkov, TFSec
+- **Status:** 🚧 In Progress
+- 🔗 [Repository](https://github.com/yourusername/terraform-secure-infra)
+
+### 4️⃣ SAST & DAST Security Automation (`sast-dast-automation`)
+- **Objective:** Automate security scans in CI/CD pipelines.
+- **Features:**
+  - Run **SAST scans** with `Semgrep`, `SonarQube`, `CodeQL`
+  - Run **DAST scans** with `OWASP ZAP`, `Burp Suite`
+  - Automated vulnerability reporting & remediation
+- **Tech Stack:** OWASP ZAP, Semgrep, CodeQL, GitHub Actions
+- **Status:** 🚧 In Progress
+- 🔗 [Repository](https://github.com/yourusername/sast-dast-automation)
   
 *Explore all my projects [here](https://github.com/tanishqborse).*  
 ---
