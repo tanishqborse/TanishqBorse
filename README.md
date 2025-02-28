@@ -49,7 +49,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 
 ## 📌 **Featured Security Projects**
 ---
-#### 🔒 **AI-powered Malware Detection System**
+#### 🔒 [**AI-powered Malware Detection System**](https://github.com/tanishqborse/AI-Powered-Malware-Detection-System)
 - Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures for advanced threat identification.
 - Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15% and improving detection accuracy.
 
