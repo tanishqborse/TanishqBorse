@@ -53,35 +53,35 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures for advanced threat identification.
 - Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15% and improving detection accuracy.
 
-#### 🔒 **Secure Remote Attestation for MCUs**
+#### 🔒 [**Secure Remote Attestation for MCUs**]()
 - Designed and developed a remote attestation framework for MCUs running audio sensing software, ensuring data integrity and security across 10,000+ devices in contested environments.
 - Implemented a novel lightweight cryptographic algorithm with a centralized verifier, enhancing device trustworthiness while maintaining efficiency in resource-constrained systems.
 
-#### 🔐 **Secure Web Application Development**
+#### 🔐 [**Secure Web Application Development**]()
 - Developed a web application with secure coding practices to mitigate SQL injection, XSS, and CSRF, ensuring robust application security.
 - Implemented strong authentication and authorization mechanisms, including multi-factor authentication (MFA), to enhance user access security.
 
-#### 🛡️ **Automated Phishing Suscetibility Testing Tool**
+#### 🛡️ [**Automated Phishing Susceptibility Testing Tool**]()
 - Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns on Multifactor Authentication applications such as DUO.
 - Integrated real-time analytics and reporting to measure phishing resilience, track behavioral patterns, and provide targeted security awareness training.
 
-#### 🛡️ **AWS Security Risk Assessment & Threat Modeling**
+#### 🛡️ [**AWS Security Risk Assessment & Threat Modeling**]()
 - Led an AWS Enterprise Security Risk Assessment, conducting asset identification, threat modeling, and impact analysis for critical cloud services.
 - Developed a risk matrix and remediation plan aligned with NIST 800-53 and CIS benchmarks, optimizing security investments with a multi-tier budget strategy, and improving cost efficiency by 30%.
 
-#### 🔒 **Secure Infrastructure Lab – Real-World Cyber Defense Simulation**
+#### 🔒 [**Secure Infrastructure Lab – Real-World Cyber Defense Simulation**]()
 - Engineered a full-scale enterprise security lab on ESXi 7, replicating real-world IT environments with Active Directory, DNS, mail server, and a custom Dockerized Python web app—built to withstand modern cyber threats.
 - Led immersive Red Team vs. Blue Team exercises, conducting advanced vulnerability assessments, attack simulations, and defensive countermeasures, culminating in a detailed cybersecurity report with actionable insights for a hardened, production-ready deployment.
 
-#### 🔐 **Secure Web Server**
+#### 🔐 [**Secure Web Server**]()
 - Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
 - Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
 
 *Explore all my projects [here](https://github.com/tanishqborse).*  
 ---
 
-## 📚 **Certifications & Continuous Learning**
-🎓 **Certifications:**  
+## 🎓**Certifications & Continuous Learning**
+ 
 ✅ **Certified Ethical Hacker (CEH) v11**  
 ✅ **IBM Cybersecurity Analyst**  
 ✅ **Deep Learning Specialization (Andrew Ng, Coursera)**  
@@ -89,11 +89,11 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 
 ---
 ### 📄 **Publications and Research**
-- **Whitepaper**: *Collective Attestation for IoT Devices* - Patented Framework.
-- **Research**: Published a white paper on "The underlying risks of implementing Multimedia in Next-Gen 911 systems" and presented it at the **United States Capitol**.
-- **Advanced Distributed Networking Research**: Explored the impact of adversarial attacks on machine learning models, and how to defend AI systems from poisoning and inference attacks.
-- **Post Quantum Cryptography Research**: Proposed an MVP for implementing Post-Quantum Digital Signatures like Sphincs+ and Crystalls Dyllitheum on a resource-constrained Smart Card reader to enable secure transactions in a Post-Quantum Crypto Era.
-- **AWS Cybersecurity Report**: Asset Identification, Threat Modelling, Risk Matrix, Impact Analysis, Devised a Cybersecurity Budget based on a low Budget, Medium, and Money-not-an-object Budget. Listed the different types of controls such as preventative, detective, forensic, audit, deterrent, and residual controls. And also suggested the top 10 most impactful security controls that covers the most significant risks given a tight security budget.
+- **Whitepaper**: **Collective Attestation for IoT Devices** - Patented Framework.
+- **Research**: Published a white paper on [**"The underlying risks of implementing Multimedia in Next-Gen 911 systems"**]() and presented it at the **United States Capitol**.
+- **Advanced Distributed Networking Research**: Explored the impact of adversarial attacks on machine learning models, and how to defend AI systems from poisoning and inference attacks[]().
+- **Post Quantum Cryptography Research**: Proposed an MVP for [**Implementing Post-Quantum Digital Signatures like Sphincs+ and Crystalls Dyllitheum**]() on a resource-constrained Smart Card reader to enable secure transactions in a Post-Quantum Crypto Era.
+- [**AWS Cybersecurity Report**](): Asset Identification, Threat Modelling, Risk Matrix, Impact Analysis, Devised a Cybersecurity Budget based on a low Budget, Medium, and Money-not-an-object Budget. Listed the different types of controls such as preventative, detective, forensic, audit, deterrent, and residual controls. And also suggested the top 10 most impactful security controls that cover the most significant risks given a tight security budget.
 ---
 
 ## 🌱 **Security Community Contributions**
