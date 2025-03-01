@@ -71,9 +71,9 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Developed a risk matrix and remediation plan aligned with NIST 800-53 and CIS benchmarks, optimizing security investments with a multi-tier budget strategy, and improving cost efficiency by 30%.
 
 #### 🛡️ [**Security and Privacy Challenges for Federated Learning in Electronic Health Care Records**](https://github.com/tanishqborse/Federated-Learning-EHR)
-- Led an AWS Enterprise Security Risk Assessment, conducting asset identification, threat modeling, and impact analysis for critical cloud services.
-- Developed a risk matrix and remediation plan aligned with NIST 800-53 and CIS benchmarks, optimizing security investments with a multi-tier budget strategy, and improving cost efficiency by 30%.
-- 
+- Advancements and architecture for secure Federated Learning framework for privacy-preserving EHR analysis, addressing key security challenges such as poisoning attacks, inference risks, and communication vulnerabilities.
+- This project enhances secure healthcare data collaboration by enabling privacy-preserving machine learning, ensuring compliance with HIPAA and other privacy regulations, and advancing trust in AI-driven healthcare solutions.
+  
 #### 🔒 [**Secure Infrastructure Lab – Real-World Cyber Defense Simulation**]()
 - Engineered a full-scale enterprise security lab on ESXi 7, replicating real-world IT environments with Active Directory, DNS, mail server, and a custom Dockerized Python web app—built to withstand modern cyber threats.
 - Led immersive Red Team vs. Blue Team exercises, conducting advanced vulnerability assessments, attack simulations, and defensive countermeasures, culminating in a detailed cybersecurity report with actionable insights for a hardened, production-ready deployment.
