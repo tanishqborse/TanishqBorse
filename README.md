@@ -58,7 +58,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
 - Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
 
-#### 🔒 [**Secure Remote Attestation for MCUs**]()
+#### 🔒 [**Secure Remote Attestation for MCUs**](https://github.com/tanishqborse/Secure-Remote-Attestation-for-MCUs)
 - Designed and developed a remote attestation framework for MCUs running audio sensing software, ensuring data integrity and security across 10,000+ devices in contested environments.
 - Implemented a novel lightweight cryptographic algorithm with a centralized verifier, enhancing device trustworthiness while maintaining efficiency in resource-constrained systems.
 
