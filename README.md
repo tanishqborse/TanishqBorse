@@ -66,7 +66,7 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns on Multifactor Authentication applications such as DUO.
 - Integrated real-time analytics and reporting to measure phishing resilience, track behavioral patterns, and provide targeted security awareness training.
 
-#### 🛡️ [**AWS Security Risk Assessment & Threat Modeling**]()
+#### 🛡️ [**AWS Security Risk Assessment & Threat Modeling**](https://github.com/tanishqborse/AWS-Cybersecurity-Report-)
 - Led an AWS Enterprise Security Risk Assessment, conducting asset identification, threat modeling, and impact analysis for critical cloud services.
 - Developed a risk matrix and remediation plan aligned with NIST 800-53 and CIS benchmarks, optimizing security investments with a multi-tier budget strategy, and improving cost efficiency by 30%.
 
