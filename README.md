@@ -53,18 +53,13 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 - Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures for advanced threat identification.
 - Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15% and improving detection accuracy.
 
-
-#### 🔐 [**Secure Web Server**](https://github.com/tanishqborse/PythonWebServer)
-- Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
-- Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
-
 #### 🔒 [**Secure Remote Attestation for MCUs**](https://github.com/tanishqborse/Secure-Remote-Attestation-for-MCUs)
 - Designed and developed a remote attestation framework for MCUs running audio sensing software, ensuring data integrity and security across 10,000+ devices in contested environments.
 - Implemented a novel lightweight cryptographic algorithm with a centralized verifier, enhancing device trustworthiness while maintaining efficiency in resource-constrained systems.
-
-#### 🛡️ [**Automated Phishing Susceptibility Testing Tool**]()
-- Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns on Multifactor Authentication applications such as DUO.
-- Integrated real-time analytics and reporting to measure phishing resilience, track behavioral patterns, and provide targeted security awareness training.
+  
+#### 🔐 [**Secure Web Server**](https://github.com/tanishqborse/PythonWebServer)
+- Designed and deployed a highly secure web application server, implementing OWASP Top 10 protections to mitigate SQL injection, XSS, CSRF, and authentication bypass attacks.
+- Hardened server security with containerized deployment (Docker/Kubernetes), TLS encryption, WAF integration, and MFA authentication, ensuring enterprise-grade resilience against modern cyber threats.
 
 #### 🛡️ [**AWS Security Risk Assessment & Threat Modeling**](https://github.com/tanishqborse/AWS-Cybersecurity-Report-)
 - Led an AWS Enterprise Security Risk Assessment, conducting asset identification, threat modeling, and impact analysis for critical cloud services.
@@ -73,6 +68,10 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 #### 🛡️ [**Security and Privacy Challenges for Federated Learning in Electronic Health Care Records**](https://github.com/tanishqborse/Federated-Learning-EHR)
 - Advancements and architecture for secure Federated Learning framework for privacy-preserving EHR analysis, addressing key security challenges such as poisoning attacks, inference risks, and communication vulnerabilities.
 - This project enhances secure healthcare data collaboration by enabling privacy-preserving machine learning, ensuring compliance with HIPAA and other privacy regulations, and advancing trust in AI-driven healthcare solutions.
+ 
+#### 🛡️ [**Automated Phishing Susceptibility Testing Tool**]()
+- Developed an automated phishing susceptibility assessment tool to evaluate user vulnerability through simulated phishing campaigns on Multifactor Authentication applications such as DUO.
+- Integrated real-time analytics and reporting to measure phishing resilience, track behavioral patterns, and provide targeted security awareness training.
   
 #### 🔒 [**Secure Infrastructure Lab – Real-World Cyber Defense Simulation**]()
 - Engineered a full-scale enterprise security lab on ESXi 7, replicating real-world IT environments with Active Directory, DNS, mail server, and a custom Dockerized Python web app—built to withstand modern cyber threats.
