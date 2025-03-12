@@ -103,7 +103,8 @@ This Github Profile is still under Construction! Updates are on the way :)
 - [**AWS Cybersecurity Report**](https://github.com/tanishqborse/AWS-Cybersecurity-Report-): Asset Identification, Threat Modelling, Risk Matrix, Impact Analysis, Devised a Cybersecurity Budget based on a low Budget, Medium, and Money-not-an-object Budget. Listed the different types of controls such as preventative, detective, forensic, audit, deterrent, and residual controls. And also suggested the top 10 most impactful security controls that cover the most significant risks given a tight security budget.
 ---
 
-## 🌱 [**Security Chronicles Blog Posts**]https://github.com/tanishqborse/Security-Blogs)
+## 📄 [**Security Chronicles Blog Posts**](https://github.com/tanishqborse/Security-Blogs)
+- Check out my latest Blog post on Embedded System Security.
 
 --- 
 
