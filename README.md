@@ -93,7 +93,7 @@ This Github Profile is still under Construction! Updates are on the way :)
 
 ---
 ### 📄 **Publications and Research**
-- [**IOT Seccurity**](): **Collective Attestation for IoT Devices** - Patented Framework.
+- [**IOT Seccurity**](https://github.com/tanishqborse/Secure-Remote-Attestation-for-MCUs): **Collective Attestation for IoT Devices** - Patented Framework.
 - [**CISA sponsored Project**](https://github.com/tanishqborse/CISA-911): Published a white paper on "The underlying risks of implementing Multimedia in Next-Gen 911 systems" and presented it at the **United States Capitol**.
 - [**Advanced Distributed Networking Research**](https://github.com/tanishqborse/Federated-Learning-EHR): Explored the Security and Privacy Challenges for Federated Learning in Electronic Health Care Records.
 - [**Post Quantum Cryptography Research**](https://github.com/tanishqborse/PQDS): Proposed an MVP for Implementing Post-Quantum Digital Signatures like Sphincs+ and Crystalls Dyllitheum on a resource-constrained Smart Card reader to enable secure transactions in a Post-Quantum Crypto Era.
