@@ -149,7 +149,8 @@ I love these Open-Source projects and I hope to contribute to them in my free ti
 
 ## 🔹 **Conferences & Workshops**
 - **Rochester Security Summit**  
-- **B-Sides Security Conference ROC**  
+- **B-Sides Security Conference ROC**
+- **Etisalat- Design Thinking Workshop**
 
 ---
 
