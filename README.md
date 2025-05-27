@@ -64,7 +64,7 @@ This Github Profile is still under Construction! Updates are on the way :)
 
 #### 🔒 [**AI-powered Malware Detection System**](https://github.com/tanishqborse/AI-Powered-Malware-Detection-System)
 - Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures for advanced threat identification.
-- Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives by 15% and improving detection accuracy.
+- Utilized NLP techniques to enhance feature extraction from malicious code and system logs, reducing false positives and improving detection accuracy.
 
 #### 🔒 [**Secure Remote Attestation for MCUs**](https://github.com/tanishqborse/Secure-Remote-Attestation-for-MCUs)
 - Designed and developed a remote attestation framework for MCUs running audio sensing software, ensuring data integrity and security across 10,000+ devices in contested environments.
