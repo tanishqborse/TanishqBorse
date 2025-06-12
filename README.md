@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/tanishqborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:tb7223@rit.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://camasecurity.com"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=google-chrome&logoColor=white"></a>
+  <a href="https://tanishqborse.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat-square&logo=google-chrome&logoColor=white"></a>
 </p>
 
 ---
