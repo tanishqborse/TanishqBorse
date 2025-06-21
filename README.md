@@ -61,6 +61,9 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
 ## 📌 **Featured Security Projects**
 
 This Github Profile is still under Construction! Updates are on the way :)
+#### 🔒 [**AI SOC COPILOT**](https://github.com/tanishqborse/AI-SOC-Copilot)
+- This project implements a **serverless AI-driven Security Operations Center (SOC) Copilot** that analyzes security logs, maps them to MITRE ATT&CK Tactics, Techniques, and Procedures (TTPs), classifies threat severity, and recommends remediation steps, all fully automated.
+- Serves it in an interactive dashboard that helps reduce SOC analysts' workload.  
 
 #### 🔒 [**AI-powered Malware Detection System**](https://github.com/tanishqborse/AI-Powered-Malware-Detection-System)
 - Developed a malware detection model leveraging behavioral analysis and self-attention-based transformer architectures for advanced threat identification.
