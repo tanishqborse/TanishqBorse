@@ -50,10 +50,10 @@ Beyond technical implementation, I have also been deeply involved in roadmap pla
  
 ✅ **Certified Ethical Hacker(CEH) v11**  
 ✅ **IBM Cybersecurity Analyst**  
-✅ **Deep Learning Specialization(Andrew Ng, Coursera)** 
-✅ **ISC2 CC (Certified in Cybersecurity)** 
-✅ **Full Stack Web Development(Udemy)** 
-✅ **AWS Certified Solutions Architect(In Progress)** 
+✅ **Deep Learning Specialization(Andrew Ng, Coursera)**  
+✅ **ISC2 CC (Certified in Cybersecurity)**  
+✅ **Full Stack Web Development**  
+✅ **AWS Certified Solutions Architect(In Progress)**  
 🎯 **OSCP (In Progress)**  
 
 ---
