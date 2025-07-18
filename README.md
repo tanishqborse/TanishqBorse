@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tanishq 👨‍💻🔐</h1>
+<h1 align="center">👋 Hi, I'm Tanishq </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/tanishqborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
