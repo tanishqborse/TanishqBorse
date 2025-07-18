@@ -9,12 +9,11 @@
 ---
 
 ## 🔐 **About Me**
-With a background in Computer Science, I have always been fascinated by the intersection of technology, security, and business innovation. Cybersecurity should not be an afterthought or a blocker but a strategic enabler that helps organizations move faster, innovate securely, and scale with confidence. 
+My journey began with a deep curiosity about how things break and how to fix them better.
+Over the years, I've focused on making security practical, human-centered, and seamlessly integrated into real-world systems. Whether it’s securing IoT ecosystems, embedding trust in AI systems, or building resilient DevSecOps pipelines, I’ve found that the best solutions come from listening deeply, thinking across disciplines, and never losing sight of the people behind the systems.
+I care about building not just secure code, but secure cultures, where teams collaborate, learn from threats, and treat security as a shared responsibility. My work spans threat modeling, cryptographic design, secure architectures, and deep learning for malware and anomaly detection. But more than the tools or techniques, I’m driven by the impact: enabling organizations to move faster, safer, and with more confidence.
 
-My work focuses on securing applications and products, integrating security seamlessly into development workflows, and leveraging AI-driven security solutions to stay ahead of evolving threats. 
-I am particularly passionate about IoT security, where the convergence of physical and digital security presents unique challenges, and Deep Learning for Security, where AI can revolutionize threat detection, anomaly detection, and malware analysis. My expertise extends to cryptography, ensuring the integrity, confidentiality, and authenticity of critical data, as well as threat modeling, proactively identifying and mitigating risks in software design. I thrive on solving complex security problems, performing secure code reviews, designing secure architectures, and embedding security into CI/CD pipelines to make security an integral part of software engineering. 
-
-Beyond technical implementation, I have also been deeply involved in roadmap planning for security products, ensuring that teams align with business objectives from the early stages of development. I am passionate about mentoring and enabling teams to adopt a security-first mindset, fostering a culture where security is seen as an asset rather than a constraint. More than just identifying vulnerabilities, I aim to build resilient, scalable, and attack-aware systems that not only meet compliance but also enhance business value, efficiency, and trust. My goal is to contribute to a future where security-first design becomes the standard and plays a fundamental role in shaping the next generation of technology.
+This space is where I document the journey, experiments, projects, ideas, and the occasional rabbit holes.
 
 💡 *"Security should be **built-in**, not **bolted-on**."*  
 
